@@ -16,7 +16,7 @@ So_long :
 [![msharifi's 42 so_long Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/2623811)](https://github.com/Man-shaa/so_long)
 
 Pushswap :
-[![msharifi's 42 push_swap Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/2602065)](https://github.com/Man-shaa/push_swap_v2)
+[![msharifi's 42 push_swap Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/2602065)](https://github.com/Man-shaa/push_swap)
 
 Pipex :
 [![msharifi's 42 pipex Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/2700794)](https://github.com/Man-shaa/pipex)
