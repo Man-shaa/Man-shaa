@@ -22,7 +22,7 @@ Pipex :
 [![msharifi's 42 pipex Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/2700794)](https://github.com/Man-shaa/pipex)
 
 Philosophers :
-[![msharifi's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/2935972)](https://github.com/Man-shaa/Philosopher)
+[![msharifi's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/2935972)](https://github.com/Man-shaa/Philosophers)
 
 Minishell :
 [![msharifi's 42 minishell Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/2994749)](https://github.com/Man-shaa/minishell)
