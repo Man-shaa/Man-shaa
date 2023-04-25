@@ -41,3 +41,6 @@ Exam Rank 02 :
 
 Exam Rank 03 :
 [![msharifi's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/2935973)](https://github.com/JaeSeoKim/badge42)
+
+Exam Rank 04 :
+[![msharifi's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/3057788)](https://github.com/JaeSeoKim/badge42)
