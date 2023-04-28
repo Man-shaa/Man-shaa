@@ -36,6 +36,9 @@ Cub3d :
 CPP00 :
 [![msharifi's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/3057790)](https://github.com/Man-shaa/CPP00)
 
+CPP01 :
+[![msharifi's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/3079321)](https://github.com/Man-shaa/CPP01)
+
 Exam Rank 02 :
 [![msharifi's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/2602064)](https://github.com/JaeSeoKim/badge42)
 
