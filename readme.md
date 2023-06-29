@@ -48,6 +48,9 @@ CPP03 :
 CPP04 :
 [![msharifi's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/3098207)](https://github.com/Man-shaa/CPP04)
 
+CPP05 :
+[![msharifi's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/3131421)](https://github.com/Man-shaa/CPP05)
+
 Exam Rank 02 :
 [![msharifi's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clgwgft2b007808lbx06h4iiu/project/2602064)](https://github.com/JaeSeoKim/badge42)
 
