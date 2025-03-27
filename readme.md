@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharifi Manuel</h1>
 <h3 align="center">A passionate student from 42 Paris</h3>
 
-- 🔭 I’m currently working on [Camagru](https://github.com/Man-shaa/camagru)
+- 🔭 I’m currently working on [snow-crash](https://github.com/Man-shaa/snow-crash)
 
 - 🌱 I’m currently learning **Frameworks and much about WebDev as well as improving all my knowings about code**
 
