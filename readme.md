@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharifi Manuel</h1>
+<h1 align="center">Hi 👋, I'm Manuel Sharifi</h1>
 <h3 align="center">A passionate student from 42 Paris</h3>
 
 - 🔭 I’m currently working on [To-Do-List](https://github.com/Man-shaa/To-Do-List)
