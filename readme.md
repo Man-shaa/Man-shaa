@@ -10,4 +10,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=man-shaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="man-shaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=man-shaa&theme=dark" alt="man-shaa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=man-shaa&theme=dark&layout=compact&layout=compact" alt="man-shaa" /></p>
