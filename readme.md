@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Manuel Sharifi — GitHub Homepage</title>
+  <title> Manuel Sharifi — GitHub Homepage </title>
   <style>
     body { background: #0b0f17; color: #cfd8dc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; line-height:1.6; padding: 36px; }
     .container { max-width: 900px; margin: 0 auto; }
