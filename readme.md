@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel Sharifi</h1>
 <h3 align="center">A passionate student from 42 Paris</h3>
 
-<li>🔭 I’m currently working on <a href="https://github.com/Man-shaa/To-Do-List" target="_blank" rel="noreferrer">To-Do-List</a></li>
 <li>🌱 I’m currently learning <strong>Frameworks</strong> and much about <strong>WebDev</strong> as well as improving all my knowings about code</li>
 <li>🧑‍💼 I’m currently doing an internship at <strong>STIME</strong></li>
 
